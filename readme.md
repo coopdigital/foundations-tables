@@ -1,3 +1,5 @@
+> **DEPRECATED ⚠️ - This repository has been deprecated in favour of the new [Co-op Front-end repository](https://github.com/coopdigital/coop-frontend). Please use this new repo to manage code or raise an issues.**
+
 # CSS Foundations: Tables
 CSS styles for making tables look in line with Co-op's Design System specification.
 
